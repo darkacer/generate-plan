@@ -1,0 +1,68 @@
+{
+	"records": [
+		{
+			"attributes": {
+				"type": "Opportunity",
+				"referenceId": "OpportunityRef0"
+			},
+			"Name": "Edge Emergency Generator",
+			"AccountId": "@AccountRef0"
+		},
+		{
+			"attributes": {
+				"type": "Opportunity",
+				"referenceId": "OpportunityRef1"
+			},
+			"Name": "Edge Installation",
+			"AccountId": "@AccountRef0"
+		},
+		{
+			"attributes": {
+				"type": "Opportunity",
+				"referenceId": "OpportunityRef2"
+			},
+			"Name": "Edge SLA",
+			"AccountId": "@AccountRef0"
+		},
+		{
+			"attributes": {
+				"type": "Opportunity",
+				"referenceId": "OpportunityRef3"
+			},
+			"Name": "Edge Emergency Generator",
+			"AccountId": "@AccountRef0"
+		},
+		{
+			"attributes": {
+				"type": "Opportunity",
+				"referenceId": "OpportunityRef4"
+			},
+			"Name": "Edge Emergency Generator",
+			"AccountId": "@AccountRef2"
+		},
+		{
+			"attributes": {
+				"type": "Opportunity",
+				"referenceId": "OpportunityRef5"
+			},
+			"Name": "Edge Installation",
+			"AccountId": "@AccountRef2"
+		},
+		{
+			"attributes": {
+				"type": "Opportunity",
+				"referenceId": "OpportunityRef6"
+			},
+			"Name": "Edge SLA",
+			"AccountId": "@AccountRef2"
+		},
+		{
+			"attributes": {
+				"type": "Opportunity",
+				"referenceId": "OpportunityRef7"
+			},
+			"Name": "Edge Emergency Generator",
+			"AccountId": "@AccountRef2"
+		}
+	]
+}

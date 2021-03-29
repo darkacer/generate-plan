@@ -1,0 +1,33 @@
+{
+  "firstname": "firstname1",
+  "lastname": "lastname2",
+  "queries": [
+    {
+      "query": "select id, name,Type,  Phone  from account where name = 'Edge Communications'",
+      "saveRefs": true,
+      "resolveRefs": false,
+      "sObject": "Account",
+      "files": [
+        "Accounts.json"
+      ]
+    },
+    {
+      "query": "select Id, lastname, accountid, name from Contact where account.name = 'Edge Communications'",
+      "saveRefs": true,
+      "resolveRefs": true,
+      "sObject": "Contact",
+      "files": [
+        "Contacts.json"
+      ]
+    },
+    {
+      "query": "select id, name, AccountId from Opportunity where Account.name = 'Edge Communications'",
+      "saveRefs": true,
+      "resolveRefs": true,
+      "sObject": "Opportunity",
+      "files": [
+        "Opportunities.json"
+      ]
+    }
+  ]
+}

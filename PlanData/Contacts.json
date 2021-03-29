@@ -1,0 +1,58 @@
+{
+	"records": [
+		{
+			"attributes": {
+				"type": "Contact",
+				"referenceId": "ContactRef0"
+			},
+			"LastName": "Gonzalez",
+			"AccountId": "@AccountRef0",
+			"Name": "Rose Gonzalez"
+		},
+		{
+			"attributes": {
+				"type": "Contact",
+				"referenceId": "ContactRef1"
+			},
+			"LastName": "Forbes",
+			"AccountId": "@AccountRef0",
+			"Name": "Sean Forbes"
+		},
+		{
+			"attributes": {
+				"type": "Contact",
+				"referenceId": "ContactRef2"
+			},
+			"LastName": "Gonzalez",
+			"AccountId": "@AccountRef1",
+			"Name": "Gonzalez"
+		},
+		{
+			"attributes": {
+				"type": "Contact",
+				"referenceId": "ContactRef3"
+			},
+			"LastName": "Forbes",
+			"AccountId": "@AccountRef1",
+			"Name": "Forbes"
+		},
+		{
+			"attributes": {
+				"type": "Contact",
+				"referenceId": "ContactRef4"
+			},
+			"LastName": "Gonzalez",
+			"AccountId": "@AccountRef2",
+			"Name": "Gonzalez"
+		},
+		{
+			"attributes": {
+				"type": "Contact",
+				"referenceId": "ContactRef5"
+			},
+			"LastName": "Forbes",
+			"AccountId": "@AccountRef2",
+			"Name": "Forbes"
+		}
+	]
+}

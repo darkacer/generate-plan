@@ -1,0 +1,12 @@
+sfdx plugins --core
+yarn build
+
+sfdx plugins:link
+sfdx plugins:unlink
+
+sfdx force:org:list
+sfdx hello:org -u omkardeokar96@gmail.com
+
+sfdx gene:odata -u omkardeokar96@gmail.com
+
+sfdx generate:plan -u omkardeokar96@gmail.com -s ./QueryData/account-contact-oppty-plan.json -d ./GeneratedPlanData

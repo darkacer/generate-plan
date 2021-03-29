@@ -1,0 +1,40 @@
+{
+	"records": [
+		{
+			"attributes": {
+				"type": "Account",
+				"referenceId": "AccountRef0"
+			},
+			"Name": "Edge Communications",
+			"Type": "Customer - Direct",
+			"Phone": "(512) 757-6000"
+		},
+		{
+			"attributes": {
+				"type": "Account",
+				"referenceId": "AccountRef1"
+			},
+			"Name": "Edge Communications",
+			"Type": null,
+			"Phone": null
+		},
+		{
+			"attributes": {
+				"type": "Account",
+				"referenceId": "AccountRef2"
+			},
+			"Name": "Edge Communications",
+			"Type": null,
+			"Phone": null
+		},
+		{
+			"attributes": {
+				"type": "Account",
+				"referenceId": "AccountRef3"
+			},
+			"Name": "Edge Communications",
+			"Type": null,
+			"Phone": null
+		}
+	]
+}
