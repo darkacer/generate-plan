@@ -5472,10 +5472,10 @@ set-value@^2.0.0, set-value@^2.0.1:
     is-plain-object "^2.0.3"
     split-string "^3.0.1"
 
-sf-composite-call@^0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/sf-composite-call/-/sf-composite-call-0.5.0.tgz#68b703f51c6358b509e5b2531451480797f8b196"
-  integrity sha512-JvmRmVR3+kExYNBOzH/kgunotlo+G2FDWdKkEXGym0cIdf5MJkX7Ik0QP7gvvhaZV54SoNvwLElmNsZf63eQsQ==
+sf-composite-call@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/sf-composite-call/-/sf-composite-call-0.6.0.tgz#d4ca3e668251140009e24b3c5d912ab4b3b3f1ee"
+  integrity sha512-lq9Cl/QoF74alLjFNO948EegQG3dIKxe0bgOTFQxVusM9xtZ4hLNCRC1EyU5apvHjur/Doz4+DV/bEbIFzDpsA==
   dependencies:
     uuid "^8.3.2"
 
