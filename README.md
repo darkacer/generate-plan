@@ -14,7 +14,7 @@ This repository provides a template for creating a plugin for the Salesforce CLI
    a) Every instance of `generator` can be directly substitued for the name of the new plugin. However beware, things like github paths are for the salesforcecli Github organization
    b) Search for case-matching `REPLACE` to find other filler values, such as for the plugin description
 4. Use `git init` to set up the desired git information
-5. Follow the getting started steps below until the `sfdx hello:org` commmand is functioning
+5. Follow the getting started steps below until the `sfdx generate:plan` commmand is functioning
 
 &lt;REPLACE ME DESCRIPTION END&gt;
 
