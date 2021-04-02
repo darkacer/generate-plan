@@ -1,6 +1,4 @@
 {
-  "firstname": "firstname1",
-  "lastname": "lastname2",
   "queries": [
     {
       "query": "select id, name,Type,  Phone  from account where name = 'Edge Communications'",

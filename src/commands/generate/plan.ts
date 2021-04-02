@@ -112,7 +112,7 @@ export default class Plan extends SfdxCommand {
       if(response.body.done) {
         // eslint-disable-next-line no-console
         response.body.records = response.body.records.map((record, index) => {
-          record = JSON.parse(this.modifyAttribute(JSON.stringify(record), `${planArray[counter]['sObject']}Ref${index}`, planArray[counter]['resolveRefs']))
+          record = JSON.parse(this.modifyAttribute(JSON.stringify(record), `${planArray[counter]['sobject']}Ref${index}`, planArray[counter]['resolveRefs']))
           jsObject.records.push(record);
         });
       }
