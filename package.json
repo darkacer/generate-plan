@@ -6,7 +6,7 @@
   "bugs": "https://github.com/forcedotcom/cli/issues",
   "dependencies": {
     "@oclif/config": "^1",
-    "@salesforce/command": "^3.1.0",
+    "@salesforce/command": "^4.2.1",
     "@salesforce/core": "^2.20.3",
     "sf-composite-call": "^0.5.0",
     "tslib": "^2"
