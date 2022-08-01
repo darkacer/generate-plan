@@ -2203,6 +2203,11 @@ eslint-config-salesforce@^0.1.0:
   resolved "https://registry.npmjs.org/eslint-config-salesforce/-/eslint-config-salesforce-0.1.0.tgz#b1e4ab5b9278b854f3ba6674e89176836de51c41"
   integrity sha512-yHCQ7XQsfd0bmcuPgsDFJ+L8PtSdc3yRfGfMR4JqU+7g1YgKK9bVICa7vqlGPHYet2c4Z3DBTh0IZQVe3PgQvg==
 
+eslint-config-salesforce@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-salesforce/-/eslint-config-salesforce-1.1.0.tgz#8f33e7cacd417f202727ae8e2b2fab27a81c0dc7"
+  integrity sha512-83foPo1Z8QoKc+APlZ7lN4uSRx4o2uicFMumi8n68Fx1/vPmBBMx86m15lOmEsAY7Gv97DneInVRotlc4+JaQw==
+
 eslint-import-resolver-node@^0.3.4:
   version "0.3.4"
   resolved "https://registry.npmjs.org/eslint-import-resolver-node/-/eslint-import-resolver-node-0.3.4.tgz#85ffa81942c25012d8231096ddf679c03042c717"
